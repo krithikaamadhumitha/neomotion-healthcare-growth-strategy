@@ -75,5 +75,4 @@ The analysis identifies potential business value across several dimensions.
 • _Strategic Frameworks_: PESTEL Analysis, Porter's Five Forces, Porter's Diamond, Strategic Grouping Analysis, Competitor Benchmarking, Value-System Analysis, Vertical Integration Analysis, Resource-Based View (RBV), VRIN Framework, Core Competency Analysis, Dynamic Capabilities Framework, Elements of Strategy<br>
 
 **Repository Contents :** <br>
-📄 Project Report : [NeoMotion  - End Term Report.pdf]([https://github.com/krithikaamadhumitha/AppleInc-Tech-Competitive-Strategy/blob/main/Apple%20Inc%20-%20Case%20Study%20Report.pdf](https://github.com/krithikaamadhumitha/neomotion-healthcare-growth-strategy/blob/main/NeoMotion%20%20-%20End%20Term%20Report.pdf
-))
+📄 Project Report : [NeoMotion  - End Term Report.pdf](https://github.com/krithikaamadhumitha/neomotion-healthcare-growth-strategy/blob/main/NeoMotion%20%20-%20End%20Term%20Report.pdf)
